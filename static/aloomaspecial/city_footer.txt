@@ -1,0 +1,47 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left:0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How quickly can you respond to commercial repair requests?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We aim to provide fast service, with many customers receiving a response within hours. For urgent situations, same-day repairs are often available depending on technician availability.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you repair both gas and electric cooking appliances? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our technicians are trained to handle gas and electric ovens, stoves, and ranges safely and efficiently.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is maintenance really necessary for kitchen appliances?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Regular maintenance helps prevent unexpected breakdowns, improves performance, and extends appliance lifespan. It’s especially important for commercial kitchens.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you provide repair services for large commercial kitchens? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We specialize in commercial-grade appliance repairs for restaurants, hotels, bakeries, and catering businesses.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your repairs covered by any service guarantee?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. We stand behind our workmanship and use quality parts to ensure long-lasting results.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-204-1390">Click Here To Call Us (820) 204-1390</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
